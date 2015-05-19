@@ -1,0 +1,31 @@
+"*":
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    preferredLineLength: 128
+    tabLength: 4
+    fontSize: 13
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+    disabledPackages: [
+      "autocomplete-plus"
+    ]
+    projectHome: "/Users/oguma/s/"
+  "exception-reporting":
+    userId: "c2128919-f422-5853-e8d4-1b645d06a41d"
+  welcome:
+    showOnStartup: false
+  linter: {}
+  "autocomplete-plus": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  "vim-mode":
+    useClipboardAsDefaultRegister: true
+    useSmartcaseForSearch: true
+  minimap:
+    displayMinimapOnLeft: true
