@@ -1,1 +1,10 @@
-{}
+s:
+  title: "s"
+  paths: [
+    "/Users/oguma/s"
+  ]
+b:
+  title: "b"
+  paths: [
+    "/Users/oguma/b"
+  ]

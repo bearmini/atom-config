@@ -7,9 +7,10 @@
     preferredLineLength: 128
     tabLength: 4
     fontSize: 13
+    fontFamily: "Inconsolata, Monaco, Consolas, 'Courier New', Courier"
   core:
     themes: [
-      "atom-dark-ui"
+      "newton-dark-ui"
       "atom-dark-syntax"
     ]
     disabledPackages: [
@@ -29,3 +30,5 @@
     useSmartcaseForSearch: true
   minimap:
     displayMinimapOnLeft: true
+  "save-session":
+    dataSaveFolder: "/Users/oguma/.atom/packages/save-session/projects"
