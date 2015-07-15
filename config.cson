@@ -32,3 +32,4 @@
     displayMinimapOnLeft: true
   "save-session":
     dataSaveFolder: "/Users/oguma/.atom/packages/save-session/projects"
+  "copy-as-rtf": {}
